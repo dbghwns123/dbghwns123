@@ -57,6 +57,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 
 
 
@@ -67,7 +68,7 @@
   </div>  
   <br />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbghwns1234)](https://solved.ac/dbghwns1234/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbghwns1234)](https://solved.ac/dbghwns1234/) -->
 
 
 
