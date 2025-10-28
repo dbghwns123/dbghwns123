@@ -18,7 +18,6 @@
   탄탄한 백엔드 구조와 효율적인 시스템 설계를 지향하며, 더 나은 개발자로 나아가고 있습니다.
 </p>
 
-<br/>
 <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" />
 
 <h3 align="center">📫 Contact</h3>
