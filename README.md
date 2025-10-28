@@ -19,7 +19,7 @@
 </p>
 
 <br/>
-<!-- <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" /> -->
+<hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" />
 
 <h3 align="center">📫 Contact</h3>
 
@@ -90,6 +90,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+<br/>
 <br/>
 <!-- <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" /> -->
 
