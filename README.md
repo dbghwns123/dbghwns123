@@ -18,7 +18,8 @@
   탄탄한 백엔드 구조와 효율적인 시스템 설계를 지향하며, 더 나은 개발자로 나아가고 있습니다.
 </p>
 
-<hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" />
+<br/>
+<!-- <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" /> -->
 
 <h3 align="center">📫 Contact</h3>
 
@@ -31,7 +32,8 @@
   </a>
 </p>
 
-<hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" />
+<br/>
+<!-- <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" /> -->
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
@@ -67,7 +69,8 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
-<hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" />
+<br/>
+<!-- <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" /> -->
 
 <h3 align="center">⚒️ Tools & Collaboration</h3>
 
@@ -76,23 +79,19 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <br/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
   <br/>
 
-  <!-- Collaboration -->
-  <a href="https://www.notion.so" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  </a>
-  <a href="https://slack.com" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  </a>
-  <a href="https://www.figma.com" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </a>
+  <!-- Collaboration (배지만, 링크 없음) -->
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-<hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" />
+<br/>
+<!-- <hr style="height:1px; background-color:#e5e7eb; border:0; margin:30px 0;" /> -->
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dbghwns123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
